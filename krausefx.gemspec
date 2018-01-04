@@ -6,12 +6,12 @@ require 'krausefx/version'
 Gem::Specification.new do |spec|
   spec.name          = "krausefx"
   spec.version       = Krausefx::VERSION
-  spec.authors       = ["Felix Krause"]
-  spec.email         = ["krausefx@gmail.com"]
+  spec.authors       = ["KrauseFx"]
+  spec.email         = ["gem@krausefx.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = "Mhhhh"
+  spec.description   = "Mhhhh"
+  spec.homepage      = "https://krausefx.com"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
